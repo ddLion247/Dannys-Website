@@ -1,0 +1,8 @@
+
+Make this site private
+
+Enable protection with a simple shared password. All search engine optimization and social features will be disabled.
+
+
+ A private RSS feed is available at https://dagrbe.ghost.io/5ebb857908f37034eda10e493b2fe1/rss 
+qebuzi730

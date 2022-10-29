@@ -1,0 +1,32 @@
+
+*{
+  background-color: rgb(25, 231, 163);
+}
+table th{
+  color:gold;
+}
+p.stinky{/*This selector has more specificity than the other ones except for the ID tag*/
+  font-weight: bold;
+}
+.poop:hover, tfoot td {
+  color: wheat;
+}
+#important{
+  color: maroon;
+}
+img[src*='Hink']{
+  height: 500px;
+  width:100px;
+  height:200px;
+}
+href:visited{
+  color:blueviolet;
+}
+.test{
+  height: 150px;
+  width: 150px;
+}
+#notes{
+  height: 104px;
+  width: 750px;
+}
